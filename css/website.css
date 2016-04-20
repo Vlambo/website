@@ -21,7 +21,7 @@ body {
 
 .about {
   padding-top: 5px;
-  font-size:18px
+  font-size: 18px;
 }
 
 .name h1 {
@@ -31,7 +31,7 @@ body {
 
 .icons {
   width: 100%;
-  font-size: 25px;
+  font-size: 30px;
   text-align: center;
 }
 
